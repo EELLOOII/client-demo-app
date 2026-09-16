@@ -1,11 +1,11 @@
-# KQ Emporium
+# Business Website and Admin Portal
 
-KQ Emporium is a Next.js frontend prototype for an industrial-products business website and administration portal.
+A Next.js frontend prototype for a product catalog, customer inquiries, quotation requests, and administrative content management.
 
 The application currently supports:
 
 - Product browsing, search, category filtering, pagination, and product details
-- Promotions and company news pages
+- Promotions and news pages
 - Customer inquiry and quotation-request forms
 - Admin dashboard, product, inventory, quotation, inquiry, promotion, news, and user management views
 - Responsive layouts, loading states, error states, empty states, charts, tables, dialogs, and status indicators

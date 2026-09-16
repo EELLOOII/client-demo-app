@@ -1,0 +1,9 @@
+import type { AdminProduct } from "@/types/admin";
+
+export const ADMIN_PRODUCTS: AdminProduct[] = [
+  { id: "ap-1", name: "Hydraulic Pump HP-220", sku: "HP-220", category: "Hydraulics", description: "Heavy-duty pump for industrial hydraulic systems.", price: 28500, currentStock: 12, minimumStock: 5, status: "active", image: "/images/placeholder-product.svg", specifications: [{ label: "Brand", value: "KQ Industrial" }, { label: "Model", value: "HP-220" }, { label: "Material", value: "Cast iron" }] },
+  { id: "ap-2", name: "Industrial Motor IM-750", sku: "IM-750", category: "Electric Motors", description: "Reliable motor for industrial applications.", price: 41200, currentStock: 3, minimumStock: 3, status: "active", image: "/images/placeholder-product.svg", specifications: [{ label: "Power", value: "7.5 kW" }, { label: "Voltage", value: "380 V" }] },
+  { id: "ap-3", name: "Diaphragm Pump DP-25", sku: "DP-25", category: "Pumps", description: "Chemical-resistant diaphragm pump.", price: 22100, currentStock: 0, minimumStock: 2, status: "inactive", image: "/images/placeholder-product.svg", specifications: [{ label: "Flow rate", value: "25 L/min" }, { label: "Material", value: "PTFE" }] },
+  { id: "ap-4", name: "Safety Helmet SH-100", sku: "SH-100", category: "Safety", description: "Industrial safety helmet with adjustable fit.", price: 680, currentStock: 28, minimumStock: 10, status: "active", image: "/images/placeholder-product.svg", specifications: [{ label: "Standard", value: "EN 397" }, { label: "Color", value: "Yellow" }] },
+  { id: "ap-5", name: "March Service Kit", sku: "MSK-2026", category: "Maintenance", description: "Draft maintenance kit awaiting catalog review.", price: 8500, currentStock: 8, minimumStock: 4, status: "draft", image: "/images/placeholder-product.svg", specifications: [{ label: "Contents", value: "Filters and seals" }] },
+];

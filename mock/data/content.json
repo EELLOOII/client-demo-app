@@ -1,0 +1,146 @@
+[
+  {
+    "id": "promotion-industrial-ready",
+    "type": "promotion",
+    "title": "Industrial essentials promotion placeholder",
+    "summary": "Promotion details, imagery, and validity dates will be supplied by the client.",
+    "label": "Promotion placeholder",
+    "publishedLabel": "Client details pending"
+  },
+  {
+    "id": "promotion-project-support",
+    "type": "promotion",
+    "title": "Project supply support placeholder",
+    "summary": "A future promotional offer area for project-based industrial supply requirements.",
+    "label": "Promotion placeholder",
+    "publishedLabel": "Client details pending"
+  },
+  {
+    "id": "promotion-maintenance",
+    "type": "promotion",
+    "title": "Maintenance supplies placeholder",
+    "summary": "A future promotion preview for maintenance and replacement-part requirements.",
+    "label": "Promotion placeholder",
+    "publishedLabel": "Client details pending"
+  },
+  {
+    "id": "promotion-hydraulics",
+    "type": "promotion",
+    "title": "Hydraulic components placeholder",
+    "summary": "A reserved promotion preview for hydraulic component requirements and project support.",
+    "label": "Promotion placeholder",
+    "publishedLabel": "Client details pending"
+  },
+  {
+    "id": "promotion-pneumatics",
+    "type": "promotion",
+    "title": "Pneumatic controls placeholder",
+    "summary": "A reserved promotion preview for pneumatic controls and air-system requirements.",
+    "label": "Promotion placeholder",
+    "publishedLabel": "Client details pending"
+  },
+  {
+    "id": "promotion-power-transmission",
+    "type": "promotion",
+    "title": "Power transmission placeholder",
+    "summary": "A reserved promotion preview for motors, gearboxes, and power-transmission requirements.",
+    "label": "Promotion placeholder",
+    "publishedLabel": "Client details pending"
+  },
+  {
+    "id": "promotion-safety",
+    "type": "promotion",
+    "title": "Workplace safety placeholder",
+    "summary": "A reserved promotion preview for industrial safety equipment and consumables.",
+    "label": "Promotion placeholder",
+    "publishedLabel": "Client details pending"
+  },
+  {
+    "id": "promotion-spare-parts",
+    "type": "promotion",
+    "title": "Replacement parts placeholder",
+    "summary": "A reserved promotion preview for replacement-part and maintenance supply requirements.",
+    "label": "Promotion placeholder",
+    "publishedLabel": "Client details pending"
+  },
+  {
+    "id": "news-company-update",
+    "type": "news",
+    "title": "Company update placeholder",
+    "summary": "Company news, author details, and supporting imagery will be provided by the client.",
+    "label": "News placeholder",
+    "publishedLabel": "Client date pending"
+  },
+  {
+    "id": "news-product-guidance",
+    "type": "news",
+    "title": "Product guidance placeholder",
+    "summary": "A future article preview area for product guidance and industrial application updates.",
+    "label": "News placeholder",
+    "publishedLabel": "Client date pending"
+  },
+  {
+    "id": "news-service-update",
+    "type": "news",
+    "title": "Service update placeholder",
+    "summary": "A future article preview area for service announcements and company information.",
+    "label": "News placeholder",
+    "publishedLabel": "Client date pending"
+  },
+  {
+    "id": "news-hydraulic-guide",
+    "type": "news",
+    "title": "Hydraulic equipment guide placeholder",
+    "summary": "A future article preview area for hydraulic equipment guidance and application information.",
+    "label": "News placeholder",
+    "publishedLabel": "Client date pending"
+  },
+  {
+    "id": "news-pneumatic-guide",
+    "type": "news",
+    "title": "Pneumatic system guide placeholder",
+    "summary": "A future article preview area for pneumatic-system guidance and maintenance information.",
+    "label": "News placeholder",
+    "publishedLabel": "Client date pending"
+  },
+  {
+    "id": "news-maintenance-notes",
+    "type": "news",
+    "title": "Maintenance notes placeholder",
+    "summary": "A future article preview area for industrial maintenance planning and product updates.",
+    "label": "News placeholder",
+    "publishedLabel": "Client date pending"
+  },
+  {
+    "id": "news-safety-notes",
+    "type": "news",
+    "title": "Safety notes placeholder",
+    "summary": "A future article preview area for workplace safety guidance and equipment updates.",
+    "label": "News placeholder",
+    "publishedLabel": "Client date pending"
+  },
+  {
+    "id": "news-product-arrivals",
+    "type": "news",
+    "title": "Product arrivals placeholder",
+    "summary": "A future article preview area for client-approved product arrivals and catalogue information.",
+    "label": "News placeholder",
+    "publishedLabel": "Client date pending"
+  },
+  {
+    "id": "news-project-planning",
+    "type": "news",
+    "title": "Project planning placeholder",
+    "summary": "A future article preview area for project supply planning and support updates.",
+    "label": "News placeholder",
+    "publishedLabel": "Client date pending"
+  },
+  {
+    "id": "news-catalogue-update",
+    "type": "news",
+    "title": "Catalogue update placeholder",
+    "summary": "A future article preview area for catalogue changes and new industrial supply categories.",
+    "label": "News placeholder",
+    "publishedLabel": "Client date pending"
+  }
+]

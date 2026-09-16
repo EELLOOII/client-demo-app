@@ -1,0 +1,19 @@
+# Dependencies and framework output
+node_modules/
+.next/
+out/
+
+# TypeScript build metadata
+*.tsbuildinfo
+
+# Local environment files and logs
+.env*
+!.env.example
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Local editor and OS files
+.DS_Store
+.vscode/

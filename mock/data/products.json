@@ -1,0 +1,122 @@
+[
+  {
+    "id": "hydraulics",
+    "name": "Hydraulics",
+    "slug": "hydraulics",
+    "description": "Pumps, valves, cylinders, and fittings."
+  },
+  {
+    "id": "pneumatics",
+    "name": "Pneumatics",
+    "slug": "pneumatics",
+    "description": "Air preparation and pneumatic controls."
+  },
+  {
+    "id": "power-transmission",
+    "name": "Power Transmission",
+    "slug": "power-transmission",
+    "description": "Motors, gearboxes, and couplings."
+  },
+  {
+    "id": "bearings",
+    "name": "Bearings",
+    "slug": "bearings",
+    "description": "Bearings and mounted bearing units."
+  },
+  {
+    "id": "air-systems",
+    "name": "Air Systems",
+    "slug": "air-systems",
+    "description": "Industrial compressor equipment."
+  },
+  {
+    "id": "electric-motors",
+    "name": "Electric Motors",
+    "slug": "electric-motors",
+    "description": "Motors and motor controls."
+  },
+  {
+    "id": "gearboxes",
+    "name": "Gearboxes",
+    "slug": "gearboxes",
+    "description": "Speed reducers and gear drives."
+  },
+  {
+    "id": "pumps",
+    "name": "Pumps",
+    "slug": "pumps",
+    "description": "Process and transfer pumps."
+  },
+  {
+    "id": "valves",
+    "name": "Valves",
+    "slug": "valves",
+    "description": "Industrial flow control valves."
+  },
+  {
+    "id": "fasteners",
+    "name": "Fasteners",
+    "slug": "fasteners",
+    "description": "Bolts, nuts, and fixings."
+  },
+  {
+    "id": "safety",
+    "name": "Safety Equipment",
+    "slug": "safety-equipment",
+    "description": "Personal safety equipment."
+  },
+  {
+    "id": "tools",
+    "name": "Industrial Tools",
+    "slug": "industrial-tools",
+    "description": "Maintenance tools."
+  },
+  {
+    "id": "electrical",
+    "name": "Electrical",
+    "slug": "electrical",
+    "description": "Electrical components."
+  },
+  {
+    "id": "automation",
+    "name": "Automation",
+    "slug": "automation",
+    "description": "Sensors and control equipment."
+  },
+  {
+    "id": "conveyors",
+    "name": "Conveyor Parts",
+    "slug": "conveyor-parts",
+    "description": "Belts and rollers."
+  },
+  {
+    "id": "seals",
+    "name": "Seals and Gaskets",
+    "slug": "seals-gaskets",
+    "description": "Sealing products."
+  },
+  {
+    "id": "lubrication",
+    "name": "Lubrication",
+    "slug": "lubrication",
+    "description": "Lubricants and dispensers."
+  },
+  {
+    "id": "welding",
+    "name": "Welding",
+    "slug": "welding",
+    "description": "Welding equipment."
+  },
+  {
+    "id": "hardware",
+    "name": "Industrial Hardware",
+    "slug": "industrial-hardware",
+    "description": "General industrial hardware."
+  },
+  {
+    "id": "spare-parts",
+    "name": "Spare Parts",
+    "slug": "spare-parts",
+    "description": "Replacement parts."
+  }
+]

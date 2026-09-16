@@ -1,0 +1,53 @@
+@import "tailwindcss";
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-primary: var(--primary);
+  --color-primary-hover: var(--primary-hover);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-border: var(--border);
+  --color-success: var(--success);
+  --color-warning: var(--warning);
+  --color-danger: var(--danger);
+  --font-sans: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+:root {
+  --background: #ffffff;
+  --foreground: #172033;
+  --card: #f8fafc;
+  --card-foreground: #172033;
+  --primary: #1769d1;
+  --primary-hover: #1255aa;
+  --primary-foreground: #ffffff;
+  --secondary: #475569;
+  --secondary-foreground: #ffffff;
+  --muted: #f1f5f9;
+  --muted-foreground: #64748b;
+  --border: #e2e8f0;
+  --success: #15803d;
+  --warning: #c2410c;
+  --danger: #dc2626;
+}
+
+[data-admin-theme="emerald"] {
+  --primary: #0f766e;
+  --primary-hover: #0b5f59;
+}
+
+[data-admin-theme="violet"] {
+  --primary: #7c3aed;
+  --primary-hover: #6425c5;
+}
+
+* { @apply border-border; }
+html { scroll-behavior: smooth; }
+body { @apply bg-background text-foreground antialiased; }
+:focus-visible { @apply outline-2 outline-offset-2 outline-primary; }
